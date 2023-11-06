@@ -10,7 +10,7 @@
  - Skeleton, Svelte UI library
    - [Improved](https://github.com/skeletonlabs/skeleton/pull/2021) generics support for Autocomplete component
    - [Improved](https://github.com/skeletonlabs/skeleton/pull/2064) generics support for Modal component and store
- - Definetely Typed, the biggest collection of library types for JavaScript ecosystem used by almost every library with no native TypeScript support
+ - Definetely Typed, the biggest collection of library types for JavaScript ecosystem used by almost every library with no built-in TypeScript support
    - [Improved](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66939) type inference for Google Tag client, an API used for Google Analytics, Ads etc.
  - Openapi-Typescript, library which generates types based on a given OpenAPI spec.
    - [Added a feature](https://github.com/drwpow/openapi-typescript/pull/1373) to openapi-fetch which allows to pass in custom fetch function on an individual client call basis.
