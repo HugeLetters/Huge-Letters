@@ -17,4 +17,4 @@
    - In progress. [Fixed](https://github.com/drwpow/openapi-typescript/pull/1428) return type reported by a function when different parse options are provided. Also by extension made the generics API more flexible which would allow to customize return type based on provided options in the future.
  - tRPC-Svelte-Query, library which binds tRPC, SvelteKit & @tanstack/svelte-query together, allowing to easily create typed RPC calls to your backend without any trouble, dedupe and cache the responses seamlessly.
    - [Fixed a bug](https://github.com/ottomated/trpc-svelte-query/pull/12) where primitive inputs would cause an application to crash
-   - In progress. [Improved](https://github.com/ottomated/trpc-svelte-query/pull/14) generics support for select transformations which allows to transform data shape. Also improved types for infiniteQueries and query keys.
+   - [Improved](https://github.com/ottomated/trpc-svelte-query/pull/14) generics support for select transformations which allows to transform data shape. Also improved types for infiniteQueries and query keys.
